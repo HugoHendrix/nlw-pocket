@@ -9,6 +9,13 @@
  - O que é e como usar .gitignore
  - O que é e como usar o require no JS (Aparentemente é como o include no PHP)
  - Programação assíncronas e Promises (Uso de funções assíncronas async/await)
+ - Condicional if/else
+ - Operadores de comparação
+ - Diferença entre named function e arrow function
+ - Diferença entre função e método (Forte suspeita de que método é uma função dentro de um objeto)
+ - Spread Operator
+ - Função forEach e find()
+ - Js e sua relação com objetos
 
 
  # Atalhos VS Code
