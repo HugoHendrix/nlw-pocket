@@ -14,9 +14,11 @@
  - Diferença entre named function e arrow function
  - Diferença entre função e método (Forte suspeita de que método é uma função dentro de um objeto)
  - Spread Operator
- - Função forEach e find()
+ - Função, filter forEach e find() ( métodos de arrays HOF higher order functions)
  - Js e sua relação com objetos
 
+
+### Ao terminar a pesquisa, veja quais são as semelhanças com o PHP e como utilizar esses recursos lá
 
  # Atalhos VS Code
 
@@ -37,5 +39,3 @@ Usar dentro do terminal para executar o arquivo
 - Não esquercer de colocar return no while para evitar loops infinitos. 
 - No case de usar switch, use também o break para interromper o case.
 
-
-### Ao terminar a pesquisa, veja quais são as semelhanças com o PHP e como utilizar esses recursos lá
