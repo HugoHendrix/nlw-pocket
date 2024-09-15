@@ -14,7 +14,7 @@
  - Diferença entre named function e arrow function
  - Diferença entre função e método (Forte suspeita de que método é uma função dentro de um objeto)
  - Spread Operator
- - Função, filter forEach e find() ( métodos de arrays HOF higher order functions)
+ - Função, map, filter forEach e find() ( métodos de arrays HOF higher order functions)
  - Js e sua relação com objetos
 
 
